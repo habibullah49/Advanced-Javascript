@@ -13,12 +13,12 @@
 
 // const name = "0";
 
-let name = 0;
-console.log(name);
+// let name = 0;
+// console.log(name);
 
-if(name || name == 0){
-    console.log('condition is true');
-}
-else{
-    console.log('Condition is false');
-}
+// if(name || name == 0){
+//     console.log('condition is true');
+// }
+// else{
+//     console.log('Condition is false');
+// }
